@@ -82,14 +82,14 @@ print(result)
 
 
 # PyLint Report
-# (AmateurRadio) (base) glenmillard@Glens-MBP AmateurRadio % pylint copy_of_database_store_callsign.py
+# (AmateurRadio) (base) glenmillard@Glens-MBP AmateurRadio % pylint grm_database_store_callsign.py
 # ************* Module copy_of_database_store_callsign
-# copy_of_database_store_callsign.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-# copy_of_database_store_callsign.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
-# copy_of_database_store_callsign.py:64:12: E1101: Instance of 'JsonReader' has no 'iloc' member (no-member)
-# copy_of_database_store_callsign.py:65:11: E1101: Instance of 'JsonReader' has no 'iloc' member (no-member)
-# copy_of_database_store_callsign.py:66:15: E1101: Instance of 'JsonReader' has no 'iloc' member (no-member)
-# copy_of_database_store_callsign.py:67:15: E1101: Instance of 'JsonReader' has no 'iloc' member (no-member)
+# grm_database_store_callsign.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+# grm_database_store_callsign.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
+# grm_database_store_callsign.py:64:12: E1101: Instance of 'JsonReader' has no 'iloc' member (no-member)
+# grm_database_store_callsign.py:65:11: E1101: Instance of 'JsonReader' has no 'iloc' member (no-member)
+# grm_database_store_callsign.py:66:15: E1101: Instance of 'JsonReader' has no 'iloc' member (no-member)
+# grm_database_store_callsign.py:67:15: E1101: Instance of 'JsonReader' has no 'iloc' member (no-member)
 #
 # ------------------------------------------------------------------
 # Your code has been rated at 4.63/10 (previous run: 4.39/10, +0.24)
